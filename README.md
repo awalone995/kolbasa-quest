@@ -1,2 +1,2 @@
 # kolbasa-quest
-A semi-strategic console text clicker, developing while i'm learning C#
+A semi-strategic console text clicker (sic), developing while learning C#
