@@ -1,0 +1,11 @@
+C:\Users\Home\Documents\Visual Studio 2017\Projects\KKQ2039\KKQ2039\bin\Debug\KKQ2039.exe.config
+C:\Users\Home\Documents\Visual Studio 2017\Projects\KKQ2039\KKQ2039\bin\Debug\KKQ2039.exe
+C:\Users\Home\Documents\Visual Studio 2017\Projects\KKQ2039\KKQ2039\bin\Debug\KKQ2039.pdb
+C:\Users\Home\Documents\Visual Studio 2017\Projects\KKQ2039\KKQ2039\obj\Debug\KKQ2039.csprojAssemblyReference.cache
+C:\Users\Home\Documents\Visual Studio 2017\Projects\KKQ2039\KKQ2039\obj\Debug\KKQ2039.Properties.Resources.resources
+C:\Users\Home\Documents\Visual Studio 2017\Projects\KKQ2039\KKQ2039\obj\Debug\KKQ2039.csproj.GenerateResource.cache
+C:\Users\Home\Documents\Visual Studio 2017\Projects\KKQ2039\KKQ2039\obj\Debug\KKQ2039.csproj.CoreCompileInputs.cache
+C:\Users\Home\Documents\Visual Studio 2017\Projects\KKQ2039\KKQ2039\obj\Debug\KKQ2039.exe
+C:\Users\Home\Documents\Visual Studio 2017\Projects\KKQ2039\KKQ2039\obj\Debug\KKQ2039.pdb
+C:\Users\Home\Documents\Visual Studio 2017\Projects\KKQ2039\KKQ2039\obj\Debug\KKQ2039.Form1.resources
+C:\Users\Home\Documents\Visual Studio 2017\Projects\KKQ2039\KKQ2039\obj\Debug\KKQ2039.shop.resources
